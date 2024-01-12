@@ -1,0 +1,14 @@
+# ninja log v5
+0	1475	7267740923259414	CMakeFiles/exam_cpp.dir/main.cpp.obj	1aa47a4296f1e9ea
+36	1576	7267740924437572	CMakeFiles/exam_cpp.dir/Reptile.cpp.obj	acd7178a9a625405
+24	1628	7267740924979086	CMakeFiles/exam_cpp.dir/Mammal.cpp.obj	60cce4767515835e
+50	1633	7267740925028975	CMakeFiles/exam_cpp.dir/Bird.cpp.obj	bb9bf42cb309fe37
+13	1659	7267740925297706	CMakeFiles/exam_cpp.dir/Animal.cpp.obj	534ba0aa4ef196c4
+73	2413	7267740932830703	CMakeFiles/exam_cpp.dir/Zoo.cpp.obj	57d4626bb5b0218b
+2414	3278	7267740941354292	exam_cpp.exe	1bda7eff5610062e
+2	456	7267748045020741	build.ninja	31f6f74a31205780
+15	1889	7267748064477457	CMakeFiles/exam_cpp.dir/Bird.cpp.obj	bb9bf42cb309fe37
+23	1986	7267748065535720	CMakeFiles/exam_cpp.dir/Reptile.cpp.obj	acd7178a9a625405
+44	2011	7267748065773705	CMakeFiles/exam_cpp.dir/Mammal.cpp.obj	60cce4767515835e
+32	2024	7267748065908692	CMakeFiles/exam_cpp.dir/Animal.cpp.obj	534ba0aa4ef196c4
+7	2796	7267748073682741	CMakeFiles/exam_cpp.dir/Zoo.cpp.obj	57d4626bb5b0218b
